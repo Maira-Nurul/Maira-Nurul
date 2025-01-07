@@ -13,7 +13,8 @@ This is a repository to showcase skills, share projects, and my progress in Data
 <h2>👩‍💻 Projects:</h2>
 
 <h2>🎓 Certification:</h2>
-Data Analytics for Business Bitlabs Academy (2024)
+
+[Data Analytics for Business Bitlabs Academy](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/Bitlabs%20Certificate.pdf)
 
 <h2>📧 Contacts:</h2>
 <div align="left"> 
