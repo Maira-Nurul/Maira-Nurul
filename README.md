@@ -4,11 +4,7 @@ Hi, I'm Maira! I have an analytical background in Data Analytics for Business an
 
 Throughout my studies, I developed strong skills in working with large datasets and developed a keen eye to identify patterns and trends. I also gained experience in business problem mapping, data management, statistical analysis, and data driven decision making which I believe will be valuable assets in my role as a data analyst.  
 
-I am eager to continuously expand my knowledge and expertise. Whether collaborating with a team or working independently, I am motivated by the thrill of uncovering new insights and solving complex problems through data.
-
 My CV in [pdf](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/CV%20ATS_Humaira%20Nurul%20Hadi.pdf)
-
-This is a repository to showcase skills, share projects, and my progress in Data Analytics related topics.
 
 <h2>👩‍💻 Projects:</h2>
 
