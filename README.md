@@ -12,6 +12,6 @@ This is a repository to showcase skills, share projects, and my progress in Data
 
 <h2>👩‍💻 Projects:</h2>
 
-<h2>👩‍💻 Certification:</h2>
+<h2>🎓 Certification:</h2>
 
-<h2>👩‍💻 Contacts:</h2>
+<h2>📧 Contacts:</h2>
