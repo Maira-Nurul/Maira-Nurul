@@ -13,10 +13,15 @@ This is a repository to showcase skills, share projects, and my progress in Data
 <h2>👩‍💻 Projects:</h2>
 
 <h2>🎓 Certification:</h2>
+Data Analytics for Business Bitlabs Academy (2024)
 
 <h2>📧 Contacts:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]linkedin
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/humairanurulh/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" />
+  </a>
+  <a href="https://www.instagram.com/mai.nhd/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" />
+  </a>
+</div>
 
-[instagram]: https://www.instagram.com/mai.nhd/
-[linkedin]: https://www.linkedin.com/in/humairanurulh/
