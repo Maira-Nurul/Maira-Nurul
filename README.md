@@ -6,10 +6,12 @@ Throughout my studies, I developed strong skills in working with large datasets 
 
 I am eager to continuously expand my knowledge and expertise. Whether collaborating with a team or working independently, I am motivated by the thrill of uncovering new insights and solving complex problems through data.
 
-My CV in [pdf].
+My CV in [pdf](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/CV%20ATS_Humaira%20Nurul%20Hadi.pdf)
 
 This is a repository to showcase skills, share projects, and my progress in Data Analytics related topics.
 
 <h2>👩‍💻 Projects:</h2>
 
 <h2>👩‍💻 Certification:</h2>
+
+<h2>👩‍💻 Contacts:</h2>
