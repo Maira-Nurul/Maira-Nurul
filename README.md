@@ -14,7 +14,7 @@ My CV in [pdf](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/CV
 
 <h2>🎓 Certification:</h2>
 
-[Data Analytics for Business Bitlabs Academy](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/Bitlabs%20Certificate.pdf)
+- [Data Analytics for Business Bitlabs Academy](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/Bitlabs%20Certificate.pdf)
 
 
 <h2>📧 Contacts:</h2>
