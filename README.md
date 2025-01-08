@@ -9,7 +9,8 @@ My CV in [pdf](https://github.com/Maira-Nurul/Data-Analyst-Projects/blob/main/CV
 <h2>👩‍💻 Projects:</h2>
 
 - [Campaign and Transaction Analysis for Leading Payment Getaway in Indonesia](https://github.com/Maira-Nurul/Campaign-and-Transaction-Analysis-for-a-Leading-Payement-Gateway-in-Indonesia)
-- [Cancellation Trends and Customer Behavior Analysis for Resort and City Hotel](https://github.com/Maira-Nurul/Analyzing-Cancellation-Behavior-in-City-and-Resort-Hotel.git) 
+- [Cancellation Trends and Customer Behavior Analysis for Resort and City Hotel](https://github.com/Maira-Nurul/Analyzing-Cancellation-Behavior-in-City-and-Resort-Hotel.git)
+- [Optimizing Inventory Value in a Leading Oil Company using ANN](https://github.com/Maira-Nurul/Optimizing-Inventory-Value-in-a-Leading-Oil-Company-with-ANN.git)
 
 
 <h2>🎓 Certification:</h2>
